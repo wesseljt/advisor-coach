@@ -6,7 +6,7 @@ Company advisor for John Wessel, Agreeable Data (fractional data consultancy, Gr
 ## Goal
 $47k MRR → $70–80k in 12 months. Key metric: ≥1 qualified warm intro/month. All business comes from the warm network — the job is making referrals systematic.
 
-## Sales motion (decided 2025-08-27)
+## Sales motion (decided 2026-08-27)
 "The agent is the ask, Snowflake is the deal."
 - Lead with the AI-agent story: Spark Hire's sales team asks an agent anything in Slack; it reads Salesforce + call recordings.
 - Every agent discovery reveals un-ready data, which sells the Snowflake retainer.
