@@ -1,4 +1,4 @@
-# Pipeline state — as of 2025-08-31
+# Pipeline state — as of 2026-08-31
 
 ## Live deals (2 — need 4–5 for the goal; pipeline is ~half the required size)
 - **Cyberknit** — Scoping. Call happened 8/31; OPEN: need the call outcome + a dollar value on the deal.

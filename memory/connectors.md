@@ -1,4 +1,4 @@
-# Connectors — as of 2025-08-31
+# Connectors — as of 2026-08-31
 
 ## Active this week
 - **Dodds** — podcast 8/28 fell through. If no date by **9/1**, nudge with concrete slots.
