@@ -5,7 +5,7 @@
 - **GLDN** — Discovery. Tucker demo 8/28 went well. Reintro call w/ Jed Paulson + Deb T booked **Thu 9/3 4pm**. Eric Tucker is now an internal champion setting up a leadership demo. Tucker still owes an outside-GLDN intro he offered 8/27 — that intro banks September's ≥1 warm intro metric.
 
 ## On hold
-- **Toast** — moved to On Hold 8/31 ("delayed" per John). OPEN: needs a re-check date.
+- **Toast** — On Hold since 8/31 ("delayed" per John). Re-check **Mon 9/29** (set in Notion 9/1). Note: that's the week before Vegas (Oct 7–8) — if Toast restarts, it restarts before travel.
 - **Methodical Coffee** — on hold.
 
 ## Scoreboard
