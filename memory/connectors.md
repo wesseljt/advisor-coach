@@ -6,6 +6,8 @@
 - **Micah Brandenburg** — this week's nudge (untouched since June).
 - **Paul Ellis** — new Notion row; needs email address + a defined best-ask.
 
+- **Eric Gonzales** — met 8/31 (counts as a week-of-9/1 touch). Talking to a fractional CTO who wants into a healthcare-tech rollup; Eric said he'd call if it works out. Notion row created. Follow up ~9/8 if no call — and ask for the fractional-CTO intro regardless of rollup outcome (rollups = fragmented data stacks = agent + Snowflake fit; fractional CTOs are multipliers).
+
 ## Scheduled
 - **Tiller** — John texts **Mon 9/7** to schedule lunch.
 
