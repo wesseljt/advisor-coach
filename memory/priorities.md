@@ -10,6 +10,9 @@
 - Fri 9/5 9am — `friday-pipeline-accountability` fires.
 - Mon 9/7 — John texts Tiller for lunch.
 
+## Upcoming
+- **Oct 7–8 — Acquisition.com workshop, in person, Las Vegas** (booked 8/31): nail down the offer + sales channels. Travel days around it — protect the GLDN/Cyberknit follow-through that week. Guardrail agreed: this does NOT pause September selling — the current offer ($5–10k agent pilot → Snowflake retainer) is the offer until then. Prep with real data: Sept touch/intro/close numbers, win-loss notes, pricing history, where deals stall.
+
 ## Open questions for John
 - Cyberknit 8/31 call outcome + dollar value?
 - Toast re-check date?
