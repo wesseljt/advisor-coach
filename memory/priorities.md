@@ -1,6 +1,6 @@
 # Agreed priorities — week of 2026-09-01
 
-1. **5 connector touches/week cadence** (Dodds, McCandless, Micah Brandenburg, Paul Ellis are this week's obvious four; pick a fifth).
+1. **5 connector touches/week cadence** — at **3 of 5** (Gonzales 8/31, Dodds 9/2, McCandless 9/1). Micah Brandenburg + Paul Ellis still owed this week.
 2. **Past-client / closed-lost reactivation emails** — Simpliphy, Spectrum, Verow, etc. — using the agent demo as the "new news" hook.
 3. **Package the Spark Hire demo** as a forwardable asset. John's call 9/1: the **Spark Hire case study** is the next high-leverage thing (Notion: Case Study Tracker → "AI DRAFT Spark Hire", status In progress, requested 8/27). **v2 rework drafted 9/1** as a new tracker row: https://app.notion.com/p/3ce7a190681b81ae85e5edda3e8818e8 (buyer-facing, transcript-sourced numbers, technical appendix; original AI DRAFT left intact). Open items for John (in the page's internal callout): Tom Cruger's title (never stated in transcripts); client sign-off on quotes → Status "Client review"; three v1 data-quality findings (stale churn flags, departed contacts, unused-product health scores) not in any transcript — source from Slack logs or cut; keep/cut the reframed "$2k compute" quote. This is the FIRST case study — its structure is the template for Cyberknit/GLDN later. Pipeline is ~half the size the goal requires (need 4–5 live deals, have 2), so this asset is the multiplier.
 

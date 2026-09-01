@@ -2,7 +2,7 @@
 
 ## Active this week
 - **Dodds** — podcast rescheduled to **Tue 9/2** (8/28 fell through; nudge deadline met). Counts as touch #2 this week. After recording: get the clip/link (forwardable asset), ask Eric who in his audience should hear the agent story.
-- **McCandless** — meeting this week. He contracts for LevelUp Finance (CFO-focused data/AI firm) — partner lane, not competitor.
+- **McCandless** — **met 9/1** (touch #3). He contracts for LevelUp Finance (CFO-focused data/AI firm) — partner lane, not competitor. No recording; Notion Last Touched = 9/1. **Debrief owed by John:** partner lane agreed? intro promised? next step + date?
 - **Micah Brandenburg** — this week's nudge (untouched since June).
 - **Paul Ellis** — new Notion row; needs email address + a defined best-ask.
 
