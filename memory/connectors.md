@@ -1,7 +1,7 @@
 # Connectors — as of 2026-08-31
 
 ## Active this week
-- **Dodds** — podcast 8/28 fell through. If no date by **9/1**, nudge with concrete slots.
+- **Dodds** — podcast rescheduled to **Tue 9/2** (8/28 fell through; nudge deadline met). Counts as touch #2 this week. After recording: get the clip/link (forwardable asset), ask Eric who in his audience should hear the agent story.
 - **McCandless** — meeting this week. He contracts for LevelUp Finance (CFO-focused data/AI firm) — partner lane, not competitor.
 - **Micah Brandenburg** — this week's nudge (untouched since June).
 - **Paul Ellis** — new Notion row; needs email address + a defined best-ask.
