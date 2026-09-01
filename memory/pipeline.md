@@ -1,7 +1,7 @@
 # Pipeline state — as of 2026-08-31
 
 ## Live deals (2 — need 4–5 for the goal; pipeline is ~half the required size)
-- **Cyberknit** — Scoping, **$45k** (logged in Notion 8/31). OPEN: contract terms (fixed fee vs retainer?) + get the quote/SOW out.
+- **Cyberknit** — Scoping, **$45k fixed-fee project total** (logged in Notion 8/31, Contract Terms = Fixed Fee). One-time — does NOT move MRR. OPEN: quote/SOW send date; advisor push: structure a post-project retainer tail into the proposal.
 - **GLDN** — Discovery. Tucker demo 8/28 went well. Reintro call w/ Jed Paulson + Deb T booked **Thu 9/3 4pm**. Eric Tucker is now an internal champion setting up a leadership demo. Tucker still owes an outside-GLDN intro he offered 8/27 — that intro banks September's ≥1 warm intro metric.
 
 ## On hold
