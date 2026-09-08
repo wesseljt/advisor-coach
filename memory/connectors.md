@@ -17,4 +17,4 @@
 - **Kurt Costanzo** — late Sept; his other project needs 30 days healthy first. Principle: delivery health precedes expansion asks.
 
 ## Champions
-- **Eric Tucker** — **left GLDN ~8/31** (Rachel logged handoff notes w/ Eric 8/31; personal email since 8/26). Still the GLDN champion for the 9/3 call but no longer inside — Jed/Deb are the buyers now. Also a free agent: ask where he lands. forwardable blurb (introducer's voice) lives in his Notion row; owes an outside-GLDN intro offered 8/27.
+- **Eric Tucker** — **last day at GLDN Fri 9/11** (was in the 9/8 reintro; endorsed us to Jed/Deb) (Rachel logged handoff notes w/ Eric 8/31; personal email since 8/26). Jed/Deb are the buyers now. **By Wed 9/9:** ask Eric for case-study quote permission, the 8/27 outside intro, and where he lands. forwardable blurb (introducer's voice) lives in his Notion row; owes an outside-GLDN intro offered 8/27.
