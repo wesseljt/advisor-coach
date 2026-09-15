@@ -8,7 +8,9 @@
 1. **Tue 9/15 8:15am — Dixie Rubber & Plastics site visit** (Drew Boswell, via Dodds). Qualify hard; leave with owners identified + next step + date. Thank Dodds after.
 2. Commerce: MNDA watch — no MNDA by Fri 9/18 → ping Mon 9/21.
 3. GLDN: Eric gone as of 9/11. Demo/show-and-tell week of 9/14 (Jed). Cadence with Deb. Backup named?
-4. Touches: Micah Brandenburg + Paul Ellis (rolled 3 weeks). Cyberknit follow-up (SOW out 9/1). McCandless debrief.
+4. Touches: Micah Brandenburg + Paul Ellis (rolled 3 weeks). McCandless debrief.
+5. **Cyberknit SIGNED 9/15** — settle Verow split in writing before first invoice; attach signed SOW to Notion; hand kickoff to PM agent.
+6. **ASMBL 'BI Project'** (Vince Liu / Soheil Parsa, inbound 9/9) — confirm whether the Soheil call happened; if not, reply w/ two slots today.
 
 ## Last week (9/8)
 1. **GLDN** (retained client — NO selling): Slack note in Data Dev by Wed 9/9 proposing an operating cadence (biweekly w/ Deb, monthly w/ Jed) + two demo slots week of 9/14 as show-and-tell. Rachel to lead the Snowflake persistence review inside the retainer. Eric asks by Wed 9/9 (quote permission, intro, landing spot).
