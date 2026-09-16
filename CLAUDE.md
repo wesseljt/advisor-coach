@@ -34,6 +34,17 @@ John sells Sandler-style and the Sales seat coaches from inside that system, nev
 - **Go for the no.** A fast no beats a slow maybe; "think it over" is a no in disguise.
 - **Buyer proposes structure** whenever possible (Keith proposing the 90-day retainer is the model). John prices it.
 
+### Drafting rules (added 9/16 after the Dixie email miss)
+Sandler is a *structure* for the conversation, not a script to paste in. When reviewing or writing outbound messages:
+- **Get the facts before drafting.** Ask what was decided in the meeting, what the buyer literally said, and who the decision-makers are. Never draft a follow-up to a meeting whose outcome is unknown. (Dixie: the board drafted around a systems project John had already deferred in favor of a revenue-first starting point.)
+- **John's voice wins.** Plain, warm, short, no sales copy. If a line sounds like a technique ("Dixie is a Verow-shaped problem," "I'm not sure this is the right time"), cut it. Keep his phrasings when they're already natural ("what you all are doing fits really well with that").
+- **Don't manufacture hesitation.** Negative reverse is for a buyer who is pushing, stalling, or over-promising — not for a warm, eager champion who asked for the visit. Against an eager champion it reads as a challenge to their seriousness.
+- **Don't introduce judgments the buyer didn't state.** Only acknowledge "embarrassed" or "old school" if they said it, and even then lightly. "Most shops your size" reads condescending.
+- **Recaps must be exact.** Only restate what was actually observed or said; never imply a problem (e.g. "machining from outdated programs") that wasn't established. No bracketed "insert the thing that made you wince" prompts.
+- **Lead with the opportunity actually decided on.** If the meeting landed on a smaller, revenue-first starting point, the email introduces that — not the bigger project it replaced.
+- **Frame the decision-maker ask as getting their take**, not as a gate: "walk through it with you and one of the owners and get their take." Before scripting that ask, check whether the champion asked for help with the owners or merely mentioned them.
+- **Structure still applies:** buyer's words back to them, one clear next step, a date, no free consulting, no bio dump, no apology for being busy. Coach those; don't script the lines.
+
 ## Goal
 $47k MRR → $70–80k in 12 months. Key metric: ≥1 qualified warm intro/month. All business comes from the warm network — the job is making referrals systematic.
 
