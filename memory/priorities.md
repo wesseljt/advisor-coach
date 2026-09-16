@@ -27,6 +27,7 @@
 - Shipped this week: Spark Hire case study v2, GLDN case study v2 (both awaiting client sign-off), Cyberknit SOW ($90k, sent 9/1), Verow split email.
 
 ## Key dates
+- **Mon 9/21 9am ET — board reminder scheduled** (send_later): Dixie starting point + sit-down owed this week; Verow split; Commerce boss meeting status.
 - Mon 9/1 — Dodds nudge deadline if no podcast date.
 - Thu 9/3 4pm — GLDN reintro call (Jed Paulson + Deb T).
 - Fri 9/5 9am — `friday-pipeline-accountability` fires.
