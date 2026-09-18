@@ -28,6 +28,7 @@
 
 ## Key dates
 - **Mon 9/21 9am ET — board reminder scheduled** (send_later): Dixie starting point + sit-down owed this week; Verow split; Commerce boss meeting status.
+- **Mon 9/21 9–10am ET — Sean / Snowflake meeting** (new deal, no details yet). Same hour as the reminder — read the reminder after the call.
 - Mon 9/1 — Dodds nudge deadline if no podcast date.
 - Thu 9/3 4pm — GLDN reintro call (Jed Paulson + Deb T).
 - Fri 9/5 9am — `friday-pipeline-accountability` fires.
