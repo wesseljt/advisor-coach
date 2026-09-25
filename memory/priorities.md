@@ -9,7 +9,7 @@
 2. **Mon 9/21 3–4pm ET — Commerce + Agreeable Data** (Keith's invite, Marissa on it). Likely the roadmap walkthrough / boss intro. Up-front contract at top; leave with retainer shape + who decides.
 3. **Tue 9/22 8:45am — Dixie Plastics Visit #2** (Willz accepted). Revenue-first one-pager (standard parts + hose online → develop accounts) must be on paper BEFORE this. Ask who else should be in the room.
 4. **Tue 9/22 11am — Cyberknit HOLD** (Jacob declined). Verow split in writing before first invoice.
-5. **ASMBL:** Vince said start date "today or tomorrow" on 9/16 — silent since. Nudge Mon.
+5. **ASMBL:** delayed ~2 wks (John 9/25). Re-check ~10/9. Re-confirm staffing for the new window.
 6. Rolled: Micah + Paul Ellis touches; McCandless debrief; GLDN Deb cadence owner + DG backup confirmed?
 
 ## Last week (9/14)
