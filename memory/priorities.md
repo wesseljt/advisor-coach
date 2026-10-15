@@ -7,11 +7,12 @@
 ## This week (10/13)
 1. **Commerce / BigCommerce (Keith)** — SOW out 10/13, $35k × 3 = $105k, kickoff target 10/19. Before signature: confirm MSA exists; ask Keith who else approves + signature date; vendor onboarding; hours → Eastern; name the delivery team. Board SOW review is in the Notion row.
 2. **Omnificity / Eric (10/13 call)** — by Fri 10/17: engineer profiles + rates to Eric, ask target start + headcount. Confirm cost per engineer first.
-3. **Sean Reid** — re-ping was due Mon 10/12 (post-Vegas). Status?
-4. **ASMBL** — re-check with Vince was ~Thu 10/9. Status?
-5. **Toast** — 9/29 re-check never logged; Notion still Closed Lost.
-6. Still owed: Dixie 9/22 outcome, Verow split in writing.
-7. Anthropic partner application: 10-person minimum (at ~8, adding contractors); public case study done.
+3. **ThoroughCare Phase 2 (Barry)** — positive reply 10/15; lock the 20-min call this week; log Barry's words + the Curt 11am outcome.
+4. **Sean Reid** — re-ping was due Mon 10/12 (post-Vegas). Status?
+5. **ASMBL** — re-check with Vince was ~Thu 10/9. Status?
+6. **Toast** — 9/29 re-check never logged; Notion still Closed Lost.
+7. Still owed: Dixie 9/22 outcome, Verow split in writing.
+8. Anthropic partner application: 10-person minimum (at ~8, adding contractors); public case study done.
 
 ## Week of 9/21 (archived)
 1. ~~Mon 9/21 Sean / Snowflake meeting~~ — CANCELED. Follow up wk of 9/28 (reminder set Mon 9/28 9am ET). **DONE 9/28: Sean Reid starts at client ~10/5; re-ping ~10/12 to book 30 min.**
