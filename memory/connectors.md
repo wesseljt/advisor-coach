@@ -6,7 +6,7 @@
 - **Micah Brandenburg** — this week's nudge (untouched since June).
 - **Paul Ellis** — new Notion row; needs email address + a defined best-ask.
 
-- **Eric Gonzalez (Omnificity, eric@omnificity.com)** — **recurring call 10/13: brought a subcontract AWS build-out (see pipeline). Now a PARTNER lane, not just a connector.** Fractional-CTO/rollup intro from 8/31 never followed up — ask next call. Prior: met 8/31 (counts as a week-of-9/1 touch). Talking to a fractional CTO who wants into a healthcare-tech rollup; Eric said he'd call if it works out. Notion row created. Follow up ~9/8 if no call — and ask for the fractional-CTO intro regardless of rollup outcome (rollups = fragmented data stacks = agent + Snowflake fit; fractional CTOs are multipliers).
+- **Eric Gonzalez (Omnificity, eric@omnificity.com)** — **profiles/rates moved to wk of 10/19 (John 10/16).** **recurring call 10/13: brought a subcontract AWS build-out (see pipeline). Now a PARTNER lane, not just a connector.** Fractional-CTO/rollup intro from 8/31 never followed up — ask next call. Prior: met 8/31 (counts as a week-of-9/1 touch). Talking to a fractional CTO who wants into a healthcare-tech rollup; Eric said he'd call if it works out. Notion row created. Follow up ~9/8 if no call — and ask for the fractional-CTO intro regardless of rollup outcome (rollups = fragmented data stacks = agent + Snowflake fit; fractional CTOs are multipliers).
 
 ## Scheduled
 - **Tiller** — John texts **Mon 9/7** to schedule lunch.
@@ -18,3 +18,9 @@
 
 ## Champions
 - **Eric Tucker** — **last day at GLDN Fri 9/11** (was in the 9/8 reintro; endorsed us to Jed/Deb) (Rachel logged handoff notes w/ Eric 8/31; personal email since 8/26). Jed/Deb are the buyers now. **By Wed 9/9:** ask Eric for case-study quote permission, the 8/27 outside intro, and where he lands. forwardable blurb (introducer's voice) lives in his Notion row; owes an outside-GLDN intro offered 8/27.
+
+
+## Holds set 10/16 (John)
+- **Bill Evans** — follow up later; re-check early Nov, directly not via EA.
+- **David McCandless** — not now; re-check Dec. 9/1 debrief still owed.
+- **Ken Apple** — not now; re-check Dec; new employer = prospect when he lands.

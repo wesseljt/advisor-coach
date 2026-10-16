@@ -5,14 +5,16 @@
 3. **Package the Spark Hire demo** as a forwardable asset. John's call 9/1: the **Spark Hire case study** is the next high-leverage thing (Notion: Case Study Tracker → "AI DRAFT Spark Hire", status In progress, requested 8/27). **v2 rework drafted 9/1** as a new tracker row: https://app.notion.com/p/3ce7a190681b81ae85e5edda3e8818e8 (buyer-facing, transcript-sourced numbers, technical appendix; original AI DRAFT left intact). Open items for John (in the page's internal callout): Tom Cruger's title (never stated in transcripts); client sign-off on quotes → Status "Client review"; three v1 data-quality findings (stale churn flags, departed contacts, unused-product health scores) not in any transcript — source from Slack logs or cut; keep/cut the reframed "$2k compute" quote. This is the FIRST case study — its structure is the template for Cyberknit/GLDN later. **GLDN case study v2 drafted 9/2** (new tracker row, AI DRAFT left intact): https://app.notion.com/p/3cf7a190681b81d488f7e4b7e95a2a86 — results from Eric Tucker's March 2026 GLDN Data Strategy Review (client-authored, marked Confidential), our scope from Harvest. **Corrects v1 overclaim**: Harvest shows Agreeable = the half-time Sr. DE seat (Rachel, ~90 hrs/mo since Feb 2026), NOT the Q2 2025 platform build. **Role confirmed by John 9/2: we were ALSO the Q3 2025 contract DE/DS surge crew (untracked in Harvest) — page updated to two phases (2025 surge → 2026 embedded seat); still not claiming the Q2 2025 assessment/platform stand-up.** Open items for John (in page callout): client sign-off now needs Jed/Deb since Eric left GLDN (ask on 9/3 call); Eric quote permission + title tense; what "Project Midas"/Silverdale cutover was (Jul–Aug 2026, ~80 hrs) — possible extra section; keep/soften the continuity ("doesn't resign") angle. Pipeline is ~half the size the goal requires (need 4–5 live deals, have 2), so this asset is the multiplier.
 
 ## This week (10/13)
-1. **Commerce / BigCommerce (Keith)** — SOW out 10/13, $35k × 3 = $105k, kickoff target 10/19. Before signature: confirm MSA exists; ask Keith who else approves + signature date; vendor onboarding; hours → Eastern; name the delivery team. Board SOW review is in the Notion row.
-2. **Omnificity / Eric (10/13 call)** — by Fri 10/17: engineer profiles + rates to Eric, ask target start + headcount. Confirm cost per engineer first.
-3. **ThoroughCare Phase 2 (Barry)** — positive reply 10/15; lock the 20-min call this week; log Barry's words + the Curt 11am outcome.
-4. **Sean Reid / Unifi Healthcare** — re-ping due 10/12, not sent as of 10/16. Send today; 30 min wk of 10/19.
+1. **Commerce / BigCommerce (Keith)** — "fine" per John 10/16 (no detail logged). SOW out 10/13, $35k × 3 = $105k, kickoff target 10/19. Before signature: confirm MSA exists; ask Keith who else approves + signature date; vendor onboarding; hours → Eastern; name the delivery team. Board SOW review is in the Notion row.
+2. **Omnificity / Eric** — moved to wk of 10/19 (John 10/16): engineer profiles + rates, target start + headcount. Confirm cost per engineer first.
+3. **ThoroughCare Phase 2 (Barry)** — "fine" per John 10/16; call date + Curt 10/15 outcome still unlogged.
+4. **Sean Reid / Unifi Healthcare** — re-ping SENT 10/16. Waiting on a slot.
 5. **ASMBL** — re-check with Vince was ~Thu 10/9. Status?
 6. **Toast** — 9/29 re-check never logged; Notion still Closed Lost.
 7. Still owed: Dixie 9/22 outcome, Verow split in writing.
 8. Anthropic partner application: 10-person minimum (at ~8, adding contractors); public case study done.
+
+Connector holds set 10/16 (John): Bill Evans → follow up later (early Nov); David McCandless + Ken Apple → not now (re-check Dec). Unaddressed from the 10/16 list: Dodds thank-you, Vince/ASMBL re-check, Dixie one-pager, Toast decision.
 
 ## Week of 9/21 (archived)
 1. ~~Mon 9/21 Sean / Snowflake meeting~~ — CANCELED. Follow up wk of 9/28 (reminder set Mon 9/28 9am ET). **DONE 9/28: Sean Reid starts at client ~10/5; re-ping ~10/12 to book 30 min.**
