@@ -8,7 +8,7 @@
 1. **Commerce / BigCommerce (Keith)** — SOW out 10/13, $35k × 3 = $105k, kickoff target 10/19. Before signature: confirm MSA exists; ask Keith who else approves + signature date; vendor onboarding; hours → Eastern; name the delivery team. Board SOW review is in the Notion row.
 2. **Omnificity / Eric (10/13 call)** — by Fri 10/17: engineer profiles + rates to Eric, ask target start + headcount. Confirm cost per engineer first.
 3. **ThoroughCare Phase 2 (Barry)** — positive reply 10/15; lock the 20-min call this week; log Barry's words + the Curt 11am outcome.
-4. **Sean Reid** — re-ping was due Mon 10/12 (post-Vegas). Status?
+4. **Sean Reid / Unifi Healthcare** — re-ping due 10/12, not sent as of 10/16. Send today; 30 min wk of 10/19.
 5. **ASMBL** — re-check with Vince was ~Thu 10/9. Status?
 6. **Toast** — 9/29 re-check never logged; Notion still Closed Lost.
 7. Still owed: Dixie 9/22 outcome, Verow split in writing.
