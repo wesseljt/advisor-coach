@@ -13,6 +13,7 @@
 6. **Toast** — 9/29 re-check never logged; Notion still Closed Lost.
 7. Still owed: Dixie 9/22 outcome, Verow split in writing.
 8. Anthropic partner application: 10-person minimum (at ~8, adding contractors); public case study done.
+9. **Tom Cruger leaving Spark Hire (10/19)** — buyer + signer + the voice in the case study. Filed as a connector. Ask before his last day: quote permission, who inherits the agent, where he lands. Spark Hire case study sign-off now has a clock on it.
 
 Connector holds set 10/16 (John): Bill Evans → follow up later (early Nov); David McCandless + Ken Apple → not now (re-check Dec). Unaddressed from the 10/16 list: Dodds thank-you, Vince/ASMBL re-check, Dixie one-pager, Toast decision.
 

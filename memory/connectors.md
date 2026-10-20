@@ -13,10 +13,11 @@
 
 ## Holds (do not touch yet)
 - **Ken Apple** — October.
-- **Gary Schwake** — await SparkHire testimonial first.
+- **Gary Schwake** — await SparkHire testimonial first. **10/19: Tom Cruger (buyer/signer) is leaving Spark Hire — Gary is the remaining relationship there.**
 - **Kurt Costanzo** — late Sept; his other project needs 30 days healthy first. Principle: delivery health precedes expansion asks.
 
 ## Champions
+- **Tom Cruger** — **LEAVING Spark Hire (told John 10/19/26; last day + destination not logged).** Finance lead (CPA; case study styles him Head of Global Finance, title unconfirmed). Signed the SOW 5/13 and CO1 7/20. Personal: tdcruger@gmail.com / 630-391-2590; LinkedIn is his preferred channel. Before his last day: case-study quote permission + title styling, who inherits the agent at Spark Hire, where he lands. Notion: https://app.notion.com/p/3fe7a190681b81788947d06839d80d99
 - **Eric Tucker** — **last day at GLDN Fri 9/11** (was in the 9/8 reintro; endorsed us to Jed/Deb) (Rachel logged handoff notes w/ Eric 8/31; personal email since 8/26). Jed/Deb are the buyers now. **By Wed 9/9:** ask Eric for case-study quote permission, the 8/27 outside intro, and where he lands. forwardable blurb (introducer's voice) lives in his Notion row; owes an outside-GLDN intro offered 8/27.
 
 
