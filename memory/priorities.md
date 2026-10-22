@@ -14,6 +14,7 @@
 7. Still owed: Dixie 9/22 outcome, Verow split in writing.
 8. Anthropic partner application: 10-person minimum (at ~8, adding contractors); public case study done.
 9. **Tom Cruger leaving Spark Hire (10/19)** — buyer + signer + the voice in the case study. Filed as a connector. Ask before his last day: quote permission, who inherits the agent, where he lands. Spark Hire case study sign-off now has a clock on it.
+10. **Breezy ClickHouse case study — v1 DRAFTED 10/21** (John asked 10/21): https://app.notion.com/p/4007a190681b81528714cd45f05d0a70 (Case Study Tracker, In progress). Story = the production comps engine (Supabase Postgres → ClickHouse on AWS, Apr–Jun 2026; PIS live 5/27), NOT the Sept DW (went Databricks 9/28; ClickHouse = app data only). Joint build: Justin DeWind (Breezy) wrote the PIS + first ClickHouse snapshot; Agreeable did the Cotality ETL, ClickHouse eval (4/8), QA, Glue→CH snapshots, OpenSearch, Postgres retirement. Before publishing: confirm framing + quotes with Justin, get an after-latency number (none exists), confirm $5k/mo realized, titles, James's OK on the investor-report line. Purpose: proof of the "practice around ClickHouse" Keith sold Sharon; Anthony Leach will test it. Other ClickHouse proof: Wheelhouse LeadSherpa realtime scoring API, RudderStack crew.
 
 Connector holds set 10/16 (John): Bill Evans → follow up later (early Nov); David McCandless + Ken Apple → not now (re-check Dec). Unaddressed from the 10/16 list: Dodds thank-you, Vince/ASMBL re-check, Dixie one-pager, Toast decision.
 
