@@ -9,7 +9,7 @@
 - **Eric Gonzalez (Omnificity, eric@omnificity.com)** — **profiles/rates moved to wk of 10/19 (John 10/16).** **recurring call 10/13: brought a subcontract AWS build-out (see pipeline). Now a PARTNER lane, not just a connector.** Fractional-CTO/rollup intro from 8/31 never followed up — ask next call. Prior: met 8/31 (counts as a week-of-9/1 touch). Talking to a fractional CTO who wants into a healthcare-tech rollup; Eric said he'd call if it works out. Notion row created. Follow up ~9/8 if no call — and ask for the fractional-CTO intro regardless of rollup outcome (rollups = fragmented data stacks = agent + Snowflake fit; fractional CTOs are multipliers).
 
 ## Scheduled
-- **Tiller** — John texts **Mon 9/7** to schedule lunch.
+- **Tiller** — John texts **Mon 9/7** to schedule lunch. **10/26: Ryan is now VP, Distribution & Fleet Services at Carolina Handling (Raymond dealer, ~955 associates, Charlotte HQ, Ryan in Greenville) → prospect AND connector. Discovery tracker row: https://app.notion.com/p/4057a190681b81c2871cc3cce6e2bd86. Sept lunch outcome never logged. Next: confirm lunch happened; if not, book wk of 11/2 — hear what he's walked into, no pitch, go for the no.**
 
 ## Holds (do not touch yet)
 - **Ken Apple** — October.
